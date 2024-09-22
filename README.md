@@ -1,0 +1,1 @@
+# plugins-attachment-pages-redirect
