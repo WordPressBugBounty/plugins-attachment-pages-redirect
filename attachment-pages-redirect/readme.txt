@@ -3,7 +3,7 @@ Contributors: samuelaguilera
 Tags: attachment, redirect, images, 301, 302
 Requires at least: 4.8
 Requires PHP: 5.6
-Tested up to: 6.3.1
+Tested up to: 6.9
 Stable tag: 1.1.2
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
